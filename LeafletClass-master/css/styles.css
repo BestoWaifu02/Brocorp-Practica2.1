@@ -1,0 +1,29 @@
+#mapid {
+  margin-top: 200px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60vh;
+  object-fit: cover;
+}
+
+#latitude {
+  bottom: 50px;
+  background-color: blue;
+}
+
+#longitude {
+  bottom: 20px;
+  background-color: red;
+}
+
+#buttonMarker {
+  bottom: 90px;
+}
+
+#form {
+  background-color: blueviolet;
+  width: 200px;
+  height: 200px;
+}
